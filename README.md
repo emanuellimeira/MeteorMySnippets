@@ -1,5 +1,8 @@
---- MeteorMySnippets
+# MeteorMySnippets
 
 Meteor.Js My Snippts
 
-´´ meteor:template (tab)
+
+```
+ meteor:template (tab)
+```
