@@ -4,5 +4,5 @@ Meteor.Js My Snippts
 
 
 ```
- meteor:template (tab)
+ temp (tab) // for templates
 ```
